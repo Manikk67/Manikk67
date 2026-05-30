@@ -8,90 +8,64 @@
 
 #### EEE • AI • Automation • Embedded Systems • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Electrical+Engineering;Artificial+Intelligence;Automation+Systems;Embedded+Systems;Computer+Vision;Building+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Electrical+Engineering;Artificial+Intelligence;Automation+Systems;Embedded+Systems;Computer+Vision;Creative+Technologist" />
 
 <br>
 
 <a href="https://mani-engineeringg.netlify.app/">
-<img src="https://img.shields.io/badge/🚀_Launch_Portfolio-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Launch_Portfolio-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/manikk912005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:kottaimanibolt@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Manikk67\&style=for-the-badge)
 
 </div>
 
 ---
 
-# ⚡ SYSTEM OVERVIEW
+## 🚀 About Me
 
-```yaml
-NAME: MANI
+I'm **Mani**, an Electrical & Electronics Engineering student passionate about building intelligent systems that bridge the gap between hardware and software.
 
-LOCATION: Coimbatore, Tamil Nadu, India
+I enjoy combining:
 
-ROLE: Electrical Engineer & Creative Technologist
-
-MISSION:
-Building intelligent systems where
-Electronics, AI, and Automation converge.
-
-STATUS:
-Learning.
-Building.
-Experimenting.
-Innovating.
-```
-
----
-
-# 🌌 ENGINEERING DOMAINS
-
-```text
 ⚡ Electrical Engineering
-│
-├── Core Engineering Systems
-├── Power & Industrial Applications
-└── Engineering Design
-
 🤖 Artificial Intelligence
-│
-├── Machine Learning
-├── AI Applications
-└── Intelligent Systems
-
 ⚙️ Automation
-│
-├── Smart Solutions
-├── Process Optimization
-└── Engineering Automation
-
 📡 Embedded Systems
-│
-├── Arduino
-├── NodeMCU
-└── Hardware Integration
-
 🔍 Computer Vision
-│
-├── Object Detection
-├── Security Systems
-└── Vision-Based Intelligence
 
-🖥️ VLSI Design
-│
-├── Cadence
-└── Synopsys
-```
+to create impactful real-world solutions.
 
 ---
 
-# ⚙️ TECHNOLOGY MATRIX
+## 🌌 Engineering Domains
+
+<div align="center">
+
+| Domain                     | Focus                           |
+| -------------------------- | ------------------------------- |
+| ⚡ Electrical Engineering   | Core Engineering Fundamentals   |
+| 🤖 Artificial Intelligence | Intelligent Systems             |
+| ⚙️ Automation              | Smart Solutions                 |
+| 📡 Embedded Systems        | Hardware + Software Integration |
+| 🔍 Computer Vision         | AI-Powered Vision Systems       |
+| 🖥️ VLSI Design            | Cadence & Synopsys Exploration  |
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
 
 ### Programming
 
@@ -101,13 +75,14 @@ Innovating.
 ### Embedded & Hardware
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![RFID](https://img.shields.io/badge/RFID-00599C?style=for-the-badge)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-2C3E50?style=for-the-badge)
 
-### AI & Vision
+### AI & Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/AI-412991?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
 
 ### Engineering Tools
 
@@ -124,100 +99,75 @@ Innovating.
 
 ---
 
-# 🚀 ENGINEERING SYSTEMS DEPLOYED
+## 🚀 Featured Engineering Systems
 
-### 🤖 JARVIS AI ASSISTANT
+### 🤖 Jarvis AI Assistant
 
-Voice-enabled intelligent assistant designed to automate tasks and enhance productivity through AI-powered interactions.
+Voice-enabled intelligent assistant built to automate tasks and improve productivity.
 
 🔗 https://github.com/Manikk67/jarvis-ai
 
 ---
 
-### 🔍 AI OBJECT TAMPERING DETECTION SYSTEM
+### 🔍 AI Object Tampering Detection System
 
-Computer Vision based security system capable of identifying suspicious object movements and tampering events.
+Computer vision powered security system for detecting suspicious object movements and tampering.
 
 🔗 https://github.com/Manikk67/AI-Object-Tampering-Detection-System
 
 ---
 
-### 📈 AI ENERGY FORECASTING DASHBOARD
+### 📈 AI Energy Forecasting Dashboard
 
-Intelligent analytics dashboard developed for energy monitoring, visualization, and forecasting applications.
+AI-driven dashboard for energy analysis, monitoring, and forecasting.
 
 🔗 https://github.com/Manikk67/AI-Energy-Forecasting-Dashboard
 
 ---
 
-### 🔌 SQUEAKY TOY PCB
+### 🔌 PCB Design Project
 
-PCB design project demonstrating circuit design, hardware implementation, and practical electronics development.
+Squeaky Toy PCB design project focused on electronics design and implementation.
 
 🔗 https://github.com/Manikk67/squeaky-toy-pcb
 
 ---
 
-# 🎯 MISSION CONTROL
+## 🎯 Mission Control
 
 ```text
-[✓] AI Assistant Development
+CURRENTLY EXPLORING
 
-[✓] Computer Vision Systems
+⚡ Embedded AI Systems
 
-[✓] Engineering Project Development
+🤖 Computer Vision Applications
 
-[✓] Industrial Exposure
+🖥️ VLSI Design Flow
 
-[⟳] Embedded AI Systems
+⚙️ Industrial Automation
 
-[⟳] Advanced Automation
-
-[⟳] VLSI Design Flow
-
-[⟳] Intelligent Engineering Solutions
-
-[ ] Future Innovation Platform
+📡 Intelligent Engineering Systems
 ```
 
 ---
 
-# 🛤️ ENGINEERING TIMELINE
+## 🏆 Achievements & Experience
 
-```text
-2023 ▰ Started B.E. Electrical & Electronics Engineering
+✅ Industrial Internship – Mettur Thermal Power Station
 
-2024 ▰ Embedded Systems & Hardware Projects
+✅ AI Internship Experience
 
-2025 ▰ Artificial Intelligence & Computer Vision
+✅ Embedded Systems Projects
 
-2026 ▰ Automation, AI Integration & VLSI Exploration
+✅ Computer Vision Applications
 
-2027 ▰ Building Industry-Ready Intelligent Systems
-```
+✅ Automation-Based Solutions
 
----
-
-# 🏅 EXPERIENCE & CERTIFICATIONS
-
-```text
-✓ Industrial Internship
-  Mettur Thermal Power Station
-
-✓ Artificial Intelligence Internship
-
-✓ Embedded Systems Development
-
-✓ Computer Vision Applications
-
-✓ PCB Design & Development
-
-✓ Engineering Project Leadership
-```
+✅ PCB Design & Development
 
 ---
 
-# 🌍 LANGUAGES
+## 🌍 Languages
 
 🇮🇳 Tamil
 
@@ -227,22 +177,16 @@ PCB design project demonstrating circuit design, hardware implementation, and pr
 
 ---
 
-# 💭 ENGINEERING PHILOSOPHY
+## 💭 Engineering Philosophy
 
-> Engineering is not just solving problems.
->
-> It is imagining possibilities and transforming them into reality through innovation, technology, and creativity.
+> "Engineering is not just solving problems. It's imagining possibilities and building them."
 
 ---
 
 <div align="center">
 
-## ⚡ ENGINEERING THE FUTURE
+### ⚡ Thanks for visiting my profile ⚡
 
-### One Prototype.
-
-### One Algorithm.
-
-### One Innovation At A Time.
+Building intelligent solutions where Electronics, AI, and Automation converge.
 
 </div>
